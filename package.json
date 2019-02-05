@@ -1,10 +1,22 @@
 {
   "name": "apple-pricing-matrix",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Programmatic access to Apple's in-app-purchase pricing matrix",
-  "main": "src/index.js",
-  "author": "Will Albone  <will@trint.com> (http://trint.com/)",
+  "keywords": [
+    "Apple",
+    "iOS",
+    "in-app-purchase",
+    "IAP",
+    "pricing matrix",
+    "in app purchase"
+  ],
+  "author": "Will Albone  <will@trint.com> (https://trint.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trint-it/apple-pricing-matrix"
+  },
   "license": "MIT",
+  "main": "src/index.js",
   "scripts": {
     "build": "tsc -p .",
     "publish": "yarn build && yarn publish",
