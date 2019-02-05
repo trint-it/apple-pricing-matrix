@@ -27,13 +27,13 @@ const US_COUNTRY_CODE = 'US';
  * @returns {Tier}
  * @throws {InvalidTierError}
  */
-export const getTier = (tier: string): Tier => {
+export function getTier(tier: string): Tier {
   const tiering = tiers[tier];
   if (tiering) {
     return tiering;
   }
   throw new InvalidTierError(`Could not find tier: ${tier}`);
-};
+}
 
 /**
  * Returns regional pricing information for a given tier
@@ -44,7 +44,7 @@ export const getTier = (tier: string): Tier => {
  * @throws {InvalidTierError}
  * @throws {InvalidLocaleError}
  */
-export const getLocaleTier = (tier: string, countryCode: string): LocaleTier => {
+export function getLocaleTier(tier: string, countryCode: string): LocaleTier {
   const tiering = getTier(tier);
   const localeTier = tiering[countryCode];
 
@@ -52,8 +52,10 @@ export const getLocaleTier = (tier: string, countryCode: string): LocaleTier => 
     return localeTier;
   }
 
-  throw new InvalidLocaleError(`Could not find locale: ${countryCode} for tier: ${tier}`);
-};
+  throw new InvalidLocaleError(
+    `Could not find locale: ${countryCode} for tier: ${tier}`,
+  );
+}
 
 /**
  * Gets the USD exchange rate used by Apple for the given tier and region.
@@ -66,20 +68,22 @@ export const getLocaleTier = (tier: string, countryCode: string): LocaleTier => 
  * @throws {InvalidTierError}
  * @throws {InvalidLocaleError}
  */
-export const getUSDRate = (
+export function getUSDRate(
   tier: string,
   countryCode: string,
   decimalPlaces: number = 4,
-): number => {
+): number {
   const localeTier = getLocaleTier(tier, countryCode);
   if (localeTier.symbol === 'USD') {
     return 1;
   }
 
   const usdTier = getLocaleTier(tier, US_COUNTRY_CODE);
-  const rate = new BigNumber(localeTier.price).dividedBy(usdTier.price).toFixed(decimalPlaces);
+  const rate = new BigNumber(localeTier.price)
+    .dividedBy(usdTier.price)
+    .toFixed(decimalPlaces);
   return Number(rate);
-};
+}
 
 /**
  * Return the currency used for a given country code.
@@ -88,11 +92,13 @@ export const getUSDRate = (
  * @returns {string}
  * @throws {InvalidLocaleError}
  */
-export const getLocaleCurrency = (countryCode: string): string => {
+export function getLocaleCurrency(countryCode: string): string {
   try {
     const { symbol } = getLocaleTier('1', countryCode);
     return symbol;
   } catch (e) {
-    throw new InvalidLocaleError(`Unable to find currency for country code: ${countryCode}`);
+    throw new InvalidLocaleError(
+      `Unable to find currency for country code: ${countryCode}`,
+    );
   }
-};
+}

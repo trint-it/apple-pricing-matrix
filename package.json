@@ -17,6 +17,7 @@
   },
   "license": "MIT",
   "main": "src/index.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "build": "tsc -p .",
     "publish": "yarn build && yarn publish",
