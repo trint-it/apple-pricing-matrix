@@ -1,7 +1,7 @@
 {
   "name": "apple-pricing-matrix",
   "version": "1.0.0",
-  "description": "Access Apple's regional in app purchase pricing tiers",
+  "description": "Programmatic access to Apple's in-app-purchase pricing matrix",
   "main": "src/index.js",
   "author": "Will Albone  <will@trint.com> (http://trint.com/)",
   "license": "MIT",
