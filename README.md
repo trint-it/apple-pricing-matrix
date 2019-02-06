@@ -1,5 +1,7 @@
 # Programmatic access to Apple's in-app-purchase pricing matrix
 
+Provides lookups for Apple's pricing tiers, accurate as of 2019-01-22
+
 ## Getting started
 
 ```bash
