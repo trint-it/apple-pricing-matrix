@@ -1,6 +1,6 @@
 {
   "name": "apple-pricing-matrix",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Programmatic access to Apple's in-app-purchase pricing matrix",
   "keywords": [
     "Apple",
@@ -20,7 +20,6 @@
   "types": "src/index.d.ts",
   "scripts": {
     "build": "tsc -p .",
-    "publish": "yarn build && yarn publish",
     "test": "jest"
   },
   "devDependencies": {
