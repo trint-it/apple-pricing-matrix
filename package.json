@@ -1,6 +1,6 @@
 {
   "name": "apple-pricing-matrix",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Programmatic access to Apple's in-app-purchase pricing matrix",
   "keywords": [
     "Apple",
