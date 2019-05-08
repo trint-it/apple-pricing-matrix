@@ -8,7 +8,7 @@ const countries = require('i18n-iso-countries');
 // Read CSV with types
 // @TODO: parameterise input file
 const { data: matrix } = papaparse.parse(
-  fs.readFileSync(`${__dirname}/pricing_matrix_20190122.csv`).toString(),
+  fs.readFileSync(`${__dirname}/pricing_matrix_20190508.csv`).toString(),
   { skipEmptyLines: true, dynamicTyping: true },
 );
 
@@ -70,6 +70,6 @@ matrix.forEach(tiering => {
 // Write tier data to JSON file
 // @TODO: parameterise output file
 fs.writeFileSync(
-  `${__dirname}/tiers_20190122.json`,
+  `${__dirname}/tiers_20190508.json`,
   JSON.stringify(tiers, null, 2),
 );

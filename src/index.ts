@@ -1,5 +1,5 @@
 import BigNumber from 'bignumber.js';
-import TIERS from '../resources/tiers_20190122.json';
+import TIERS from '../resources/tiers_20190508.json';
 
 export type Tier = {
   [countryCode: string]: LocaleTier;
