@@ -207,8 +207,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 10,
-      "proceeds": 5.6
+      "price": 12,
+      "proceeds": 6.72
     },
     "SG": {
       "symbol": "SGD",
@@ -298,8 +298,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 349,
-      "proceeds": 244.3
+      "price": 399,
+      "proceeds": 279.3
     },
     "TH": {
       "symbol": "THB",
@@ -341,7 +341,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 33,
-      "proceeds": 22
+      "proceeds": 21
     },
     "TZ": {
       "symbol": "TZS",
@@ -417,8 +417,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 18.99,
-      "proceeds": 11.76
+      "price": 16.99,
+      "proceeds": 11.89
     },
     "MT": {
       "symbol": "EUR",
@@ -734,8 +734,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 240,
-      "proceeds": 168
+      "price": 250,
+      "proceeds": 175
     },
     "BH": {
       "symbol": "USD",
@@ -769,8 +769,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 20,
-      "proceeds": 11.2
+      "price": 25,
+      "proceeds": 14
     },
     "SG": {
       "symbol": "SGD",
@@ -860,8 +860,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 699,
-      "proceeds": 489.3
+      "price": 799,
+      "proceeds": 559.3
     },
     "TH": {
       "symbol": "THB",
@@ -903,7 +903,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 70,
-      "proceeds": 46
+      "proceeds": 45
     },
     "TZ": {
       "symbol": "TZS",
@@ -979,8 +979,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 37.99,
-      "proceeds": 23.53
+      "price": 32.99,
+      "proceeds": 23.09
     },
     "MT": {
       "symbol": "EUR",
@@ -1296,8 +1296,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 360,
-      "proceeds": 252
+      "price": 370,
+      "proceeds": 259
     },
     "BH": {
       "symbol": "USD",
@@ -1331,8 +1331,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 30,
-      "proceeds": 16.8
+      "price": 35,
+      "proceeds": 19.6
     },
     "SG": {
       "symbol": "SGD",
@@ -1422,8 +1422,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 999,
-      "proceeds": 699.3
+      "price": 1190,
+      "proceeds": 833
     },
     "TH": {
       "symbol": "THB",
@@ -1465,7 +1465,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 100,
-      "proceeds": 66
+      "proceeds": 65
     },
     "TZ": {
       "symbol": "TZS",
@@ -1541,8 +1541,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 54.99,
-      "proceeds": 34.06
+      "price": 49.99,
+      "proceeds": 34.99
     },
     "MT": {
       "symbol": "EUR",
@@ -1858,8 +1858,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 480,
-      "proceeds": 336
+      "price": 490,
+      "proceeds": 343
     },
     "BH": {
       "symbol": "USD",
@@ -1893,8 +1893,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 40,
-      "proceeds": 22.4
+      "price": 50,
+      "proceeds": 28
     },
     "SG": {
       "symbol": "SGD",
@@ -1984,8 +1984,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 1390,
-      "proceeds": 973
+      "price": 1590,
+      "proceeds": 1113
     },
     "TH": {
       "symbol": "THB",
@@ -2027,7 +2027,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 130,
-      "proceeds": 86
+      "proceeds": 84
     },
     "TZ": {
       "symbol": "TZS",
@@ -2103,8 +2103,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 74.99,
-      "proceeds": 46.45
+      "price": 64.99,
+      "proceeds": 45.49
     },
     "MT": {
       "symbol": "EUR",
@@ -2420,8 +2420,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 600,
-      "proceeds": 420
+      "price": 610,
+      "proceeds": 427
     },
     "BH": {
       "symbol": "USD",
@@ -2455,8 +2455,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 50,
-      "proceeds": 28
+      "price": 59,
+      "proceeds": 33.04
     },
     "SG": {
       "symbol": "SGD",
@@ -2546,8 +2546,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 1690,
-      "proceeds": 1183
+      "price": 1990,
+      "proceeds": 1393
     },
     "TH": {
       "symbol": "THB",
@@ -2589,7 +2589,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 170,
-      "proceeds": 112
+      "proceeds": 110
     },
     "TZ": {
       "symbol": "TZS",
@@ -2665,8 +2665,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 94.99,
-      "proceeds": 58.84
+      "price": 79.99,
+      "proceeds": 55.99
     },
     "MT": {
       "symbol": "EUR",
@@ -2982,8 +2982,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 720,
-      "proceeds": 504
+      "price": 730,
+      "proceeds": 511
     },
     "BH": {
       "symbol": "USD",
@@ -3017,8 +3017,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 65,
-      "proceeds": 36.4
+      "price": 69,
+      "proceeds": 38.64
     },
     "SG": {
       "symbol": "SGD",
@@ -3108,8 +3108,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 1990,
-      "proceeds": 1393
+      "price": 2290,
+      "proceeds": 1603
     },
     "TH": {
       "symbol": "THB",
@@ -3151,7 +3151,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 190,
-      "proceeds": 126
+      "proceeds": 123
     },
     "TZ": {
       "symbol": "TZS",
@@ -3227,8 +3227,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 109.99,
-      "proceeds": 68.14
+      "price": 99.99,
+      "proceeds": 69.99
     },
     "MT": {
       "symbol": "EUR",
@@ -3544,8 +3544,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 840,
-      "proceeds": 588
+      "price": 860,
+      "proceeds": 602
     },
     "BH": {
       "symbol": "USD",
@@ -3579,8 +3579,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 75,
-      "proceeds": 42
+      "price": 85,
+      "proceeds": 47.6
     },
     "SG": {
       "symbol": "SGD",
@@ -3713,7 +3713,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 230,
-      "proceeds": 152
+      "proceeds": 149
     },
     "TZ": {
       "symbol": "TZS",
@@ -3789,8 +3789,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 129.99,
-      "proceeds": 80.52
+      "price": 119.99,
+      "proceeds": 83.99
     },
     "MT": {
       "symbol": "EUR",
@@ -4106,8 +4106,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 960,
-      "proceeds": 672
+      "price": 980,
+      "proceeds": 686
     },
     "BH": {
       "symbol": "USD",
@@ -4141,8 +4141,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 85,
-      "proceeds": 47.6
+      "price": 99,
+      "proceeds": 55.44
     },
     "SG": {
       "symbol": "SGD",
@@ -4232,8 +4232,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 2790,
-      "proceeds": 1953
+      "price": 2990,
+      "proceeds": 2093
     },
     "TH": {
       "symbol": "THB",
@@ -4275,7 +4275,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 270,
-      "proceeds": 178
+      "proceeds": 175
     },
     "TZ": {
       "symbol": "TZS",
@@ -4351,8 +4351,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 149.99,
-      "proceeds": 92.91
+      "price": 129.99,
+      "proceeds": 90.99
     },
     "MT": {
       "symbol": "EUR",
@@ -4668,8 +4668,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 1080,
-      "proceeds": 756
+      "price": 1100,
+      "proceeds": 770
     },
     "BH": {
       "symbol": "USD",
@@ -4703,8 +4703,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 95,
-      "proceeds": 53.2
+      "price": 109,
+      "proceeds": 61.04
     },
     "SG": {
       "symbol": "SGD",
@@ -4794,8 +4794,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 2990,
-      "proceeds": 2093
+      "price": 3490,
+      "proceeds": 2443
     },
     "TH": {
       "symbol": "THB",
@@ -4837,7 +4837,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 290,
-      "proceeds": 192
+      "proceeds": 188
     },
     "TZ": {
       "symbol": "TZS",
@@ -4913,8 +4913,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 169.99,
-      "proceeds": 105.3
+      "price": 149.99,
+      "proceeds": 104.99
     },
     "MT": {
       "symbol": "EUR",
@@ -5230,8 +5230,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 1200,
-      "proceeds": 840
+      "price": 1220,
+      "proceeds": 854
     },
     "BH": {
       "symbol": "USD",
@@ -5265,8 +5265,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 109,
-      "proceeds": 61.04
+      "price": 119,
+      "proceeds": 66.64
     },
     "SG": {
       "symbol": "SGD",
@@ -5356,8 +5356,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 3490,
-      "proceeds": 2443
+      "price": 3990,
+      "proceeds": 2793
     },
     "TH": {
       "symbol": "THB",
@@ -5399,7 +5399,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 330,
-      "proceeds": 218
+      "proceeds": 213
     },
     "TZ": {
       "symbol": "TZS",
@@ -5475,8 +5475,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 189.99,
-      "proceeds": 117.69
+      "price": 169.99,
+      "proceeds": 118.99
     },
     "MT": {
       "symbol": "EUR",
@@ -5792,8 +5792,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 1300,
-      "proceeds": 910
+      "price": 1340,
+      "proceeds": 938
     },
     "BH": {
       "symbol": "USD",
@@ -5827,8 +5827,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 119,
-      "proceeds": 66.64
+      "price": 129,
+      "proceeds": 72.24
     },
     "SG": {
       "symbol": "SGD",
@@ -5918,8 +5918,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 3790,
-      "proceeds": 2653
+      "price": 4290,
+      "proceeds": 3003
     },
     "TH": {
       "symbol": "THB",
@@ -5961,7 +5961,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 370,
-      "proceeds": 244
+      "proceeds": 239
     },
     "TZ": {
       "symbol": "TZS",
@@ -6037,8 +6037,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 199.99,
-      "proceeds": 123.89
+      "price": 179.99,
+      "proceeds": 125.99
     },
     "MT": {
       "symbol": "EUR",
@@ -6354,8 +6354,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 1400,
-      "proceeds": 980
+      "price": 1480,
+      "proceeds": 1036
     },
     "BH": {
       "symbol": "USD",
@@ -6389,8 +6389,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 129,
-      "proceeds": 72.24
+      "price": 149,
+      "proceeds": 83.44
     },
     "SG": {
       "symbol": "SGD",
@@ -6480,8 +6480,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 3990,
-      "proceeds": 2793
+      "price": 4490,
+      "proceeds": 3143
     },
     "TH": {
       "symbol": "THB",
@@ -6523,7 +6523,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 390,
-      "proceeds": 258
+      "proceeds": 252
     },
     "TZ": {
       "symbol": "TZS",
@@ -6599,8 +6599,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 229.99,
-      "proceeds": 142.47
+      "price": 199.99,
+      "proceeds": 139.99
     },
     "MT": {
       "symbol": "EUR",
@@ -6951,8 +6951,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 139,
-      "proceeds": 77.84
+      "price": 159,
+      "proceeds": 89.04
     },
     "SG": {
       "symbol": "SGD",
@@ -7042,8 +7042,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 4490,
-      "proceeds": 3143
+      "price": 4990,
+      "proceeds": 3493
     },
     "TH": {
       "symbol": "THB",
@@ -7085,7 +7085,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 430,
-      "proceeds": 284
+      "proceeds": 278
     },
     "TZ": {
       "symbol": "TZS",
@@ -7161,8 +7161,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 239.99,
-      "proceeds": 148.67
+      "price": 219.99,
+      "proceeds": 153.99
     },
     "MT": {
       "symbol": "EUR",
@@ -7478,8 +7478,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 1700,
-      "proceeds": 1190
+      "price": 1720,
+      "proceeds": 1204
     },
     "BH": {
       "symbol": "USD",
@@ -7513,8 +7513,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 149,
-      "proceeds": 83.44
+      "price": 169,
+      "proceeds": 94.64
     },
     "SG": {
       "symbol": "SGD",
@@ -7604,8 +7604,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 4990,
-      "proceeds": 3493
+      "price": 5490,
+      "proceeds": 3843
     },
     "TH": {
       "symbol": "THB",
@@ -7647,7 +7647,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 470,
-      "proceeds": 311
+      "proceeds": 304
     },
     "TZ": {
       "symbol": "TZS",
@@ -7723,8 +7723,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 259.99,
-      "proceeds": 161.06
+      "price": 229.99,
+      "proceeds": 160.99
     },
     "MT": {
       "symbol": "EUR",
@@ -8040,8 +8040,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 1800,
-      "proceeds": 1260
+      "price": 1840,
+      "proceeds": 1288
     },
     "BH": {
       "symbol": "USD",
@@ -8075,8 +8075,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 159,
-      "proceeds": 89.04
+      "price": 179,
+      "proceeds": 100.24
     },
     "SG": {
       "symbol": "SGD",
@@ -8166,8 +8166,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 5290,
-      "proceeds": 3703
+      "price": 5990,
+      "proceeds": 4193
     },
     "TH": {
       "symbol": "THB",
@@ -8209,7 +8209,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 490,
-      "proceeds": 324
+      "proceeds": 317
     },
     "TZ": {
       "symbol": "TZS",
@@ -8285,8 +8285,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 279.99,
-      "proceeds": 173.45
+      "price": 249.99,
+      "proceeds": 174.99
     },
     "MT": {
       "symbol": "EUR",
@@ -8602,8 +8602,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 1900,
-      "proceeds": 1330
+      "price": 1960,
+      "proceeds": 1372
     },
     "BH": {
       "symbol": "USD",
@@ -8637,8 +8637,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 169,
-      "proceeds": 94.64
+      "price": 189,
+      "proceeds": 105.84
     },
     "SG": {
       "symbol": "SGD",
@@ -8728,8 +8728,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 5490,
-      "proceeds": 3843
+      "price": 6290,
+      "proceeds": 4403
     },
     "TH": {
       "symbol": "THB",
@@ -8771,7 +8771,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 530,
-      "proceeds": 350
+      "proceeds": 343
     },
     "TZ": {
       "symbol": "TZS",
@@ -8847,8 +8847,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 299.99,
-      "proceeds": 185.83
+      "price": 269.99,
+      "proceeds": 188.99
     },
     "MT": {
       "symbol": "EUR",
@@ -9164,8 +9164,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 2000,
-      "proceeds": 1400
+      "price": 2080,
+      "proceeds": 1456
     },
     "BH": {
       "symbol": "USD",
@@ -9199,8 +9199,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 179,
-      "proceeds": 100.24
+      "price": 199,
+      "proceeds": 111.44
     },
     "SG": {
       "symbol": "SGD",
@@ -9290,8 +9290,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 5990,
-      "proceeds": 4193
+      "price": 6490,
+      "proceeds": 4543
     },
     "TH": {
       "symbol": "THB",
@@ -9333,7 +9333,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 570,
-      "proceeds": 377
+      "proceeds": 369
     },
     "TZ": {
       "symbol": "TZS",
@@ -9409,8 +9409,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 319.99,
-      "proceeds": 198.22
+      "price": 279.99,
+      "proceeds": 195.99
     },
     "MT": {
       "symbol": "EUR",
@@ -9761,8 +9761,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 189,
-      "proceeds": 105.84
+      "price": 219,
+      "proceeds": 122.64
     },
     "SG": {
       "symbol": "SGD",
@@ -9852,8 +9852,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 6290,
-      "proceeds": 4403
+      "price": 6990,
+      "proceeds": 4893
     },
     "TH": {
       "symbol": "THB",
@@ -9895,7 +9895,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 590,
-      "proceeds": 390
+      "proceeds": 382
     },
     "TZ": {
       "symbol": "TZS",
@@ -9971,8 +9971,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 329.99,
-      "proceeds": 204.42
+      "price": 299.99,
+      "proceeds": 209.99
     },
     "MT": {
       "symbol": "EUR",
@@ -10288,8 +10288,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 2300,
-      "proceeds": 1610
+      "price": 2320,
+      "proceeds": 1624
     },
     "BH": {
       "symbol": "USD",
@@ -10323,8 +10323,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 199,
-      "proceeds": 111.44
+      "price": 229,
+      "proceeds": 128.24
     },
     "SG": {
       "symbol": "SGD",
@@ -10414,8 +10414,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 6490,
-      "proceeds": 4543
+      "price": 7490,
+      "proceeds": 5243
     },
     "TH": {
       "symbol": "THB",
@@ -10457,7 +10457,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 630,
-      "proceeds": 416
+      "proceeds": 407
     },
     "TZ": {
       "symbol": "TZS",
@@ -10533,8 +10533,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 349.99,
-      "proceeds": 216.81
+      "price": 319.99,
+      "proceeds": 223.99
     },
     "MT": {
       "symbol": "EUR",
@@ -10850,8 +10850,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 2400,
-      "proceeds": 1680
+      "price": 2440,
+      "proceeds": 1708
     },
     "BH": {
       "symbol": "USD",
@@ -10885,8 +10885,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 209,
-      "proceeds": 117.04
+      "price": 239,
+      "proceeds": 133.84
     },
     "SG": {
       "symbol": "SGD",
@@ -10976,8 +10976,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 6990,
-      "proceeds": 4893
+      "price": 7990,
+      "proceeds": 5593
     },
     "TH": {
       "symbol": "THB",
@@ -11019,7 +11019,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 670,
-      "proceeds": 443
+      "proceeds": 433
     },
     "TZ": {
       "symbol": "TZS",
@@ -11095,8 +11095,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 379.99,
-      "proceeds": 235.39
+      "price": 329.99,
+      "proceeds": 230.99
     },
     "MT": {
       "symbol": "EUR",
@@ -11412,8 +11412,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 2500,
-      "proceeds": 1750
+      "price": 2580,
+      "proceeds": 1806
     },
     "BH": {
       "symbol": "USD",
@@ -11447,8 +11447,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 219,
-      "proceeds": 122.64
+      "price": 249,
+      "proceeds": 139.44
     },
     "SG": {
       "symbol": "SGD",
@@ -11538,8 +11538,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 7290,
-      "proceeds": 5103
+      "price": 8290,
+      "proceeds": 5803
     },
     "TH": {
       "symbol": "THB",
@@ -11581,7 +11581,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 690,
-      "proceeds": 456
+      "proceeds": 446
     },
     "TZ": {
       "symbol": "TZS",
@@ -11657,8 +11657,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 399.99,
-      "proceeds": 247.78
+      "price": 349.99,
+      "proceeds": 244.99
     },
     "MT": {
       "symbol": "EUR",
@@ -11974,8 +11974,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 2600,
-      "proceeds": 1820
+      "price": 2700,
+      "proceeds": 1890
     },
     "BH": {
       "symbol": "USD",
@@ -12009,8 +12009,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 229,
-      "proceeds": 128.24
+      "price": 269,
+      "proceeds": 150.64
     },
     "SG": {
       "symbol": "SGD",
@@ -12100,8 +12100,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 7490,
-      "proceeds": 5243
+      "price": 8490,
+      "proceeds": 5943
     },
     "TH": {
       "symbol": "THB",
@@ -12143,7 +12143,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 730,
-      "proceeds": 482
+      "proceeds": 472
     },
     "TZ": {
       "symbol": "TZS",
@@ -12219,8 +12219,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 419.99,
-      "proceeds": 260.17
+      "price": 369.99,
+      "proceeds": 258.99
     },
     "MT": {
       "symbol": "EUR",
@@ -12536,8 +12536,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 2800,
-      "proceeds": 1960
+      "price": 2820,
+      "proceeds": 1974
     },
     "BH": {
       "symbol": "USD",
@@ -12571,8 +12571,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 239,
-      "proceeds": 133.84
+      "price": 279,
+      "proceeds": 156.24
     },
     "SG": {
       "symbol": "SGD",
@@ -12662,8 +12662,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 7990,
-      "proceeds": 5593
+      "price": 8990,
+      "proceeds": 6293
     },
     "TH": {
       "symbol": "THB",
@@ -12705,7 +12705,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 770,
-      "proceeds": 509
+      "proceeds": 498
     },
     "TZ": {
       "symbol": "TZS",
@@ -12781,8 +12781,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 429.99,
-      "proceeds": 266.37
+      "price": 379.99,
+      "proceeds": 265.99
     },
     "MT": {
       "symbol": "EUR",
@@ -13098,8 +13098,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 2900,
-      "proceeds": 2030
+      "price": 2940,
+      "proceeds": 2058
     },
     "BH": {
       "symbol": "USD",
@@ -13133,8 +13133,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 249,
-      "proceeds": 139.44
+      "price": 289,
+      "proceeds": 161.84
     },
     "SG": {
       "symbol": "SGD",
@@ -13224,8 +13224,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 8290,
-      "proceeds": 5803
+      "price": 9490,
+      "proceeds": 6643
     },
     "TH": {
       "symbol": "THB",
@@ -13267,7 +13267,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 790,
-      "proceeds": 522
+      "proceeds": 511
     },
     "TZ": {
       "symbol": "TZS",
@@ -13343,8 +13343,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 449.99,
-      "proceeds": 278.75
+      "price": 399.99,
+      "proceeds": 279.99
     },
     "MT": {
       "symbol": "EUR",
@@ -13660,8 +13660,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 3000,
-      "proceeds": 2100
+      "price": 3060,
+      "proceeds": 2142
     },
     "BH": {
       "symbol": "USD",
@@ -13695,8 +13695,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 259,
-      "proceeds": 145.04
+      "price": 299,
+      "proceeds": 167.44
     },
     "SG": {
       "symbol": "SGD",
@@ -13786,8 +13786,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 8490,
-      "proceeds": 5943
+      "price": 9990,
+      "proceeds": 6993
     },
     "TH": {
       "symbol": "THB",
@@ -13829,7 +13829,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 830,
-      "proceeds": 548
+      "proceeds": 537
     },
     "TZ": {
       "symbol": "TZS",
@@ -13905,8 +13905,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 469.99,
-      "proceeds": 291.14
+      "price": 419.99,
+      "proceeds": 293.99
     },
     "MT": {
       "symbol": "EUR",
@@ -14222,8 +14222,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 3100,
-      "proceeds": 2170
+      "price": 3180,
+      "proceeds": 2226
     },
     "BH": {
       "symbol": "USD",
@@ -14257,8 +14257,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 269,
-      "proceeds": 150.64
+      "price": 309,
+      "proceeds": 173.04
     },
     "SG": {
       "symbol": "SGD",
@@ -14348,8 +14348,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 8990,
-      "proceeds": 6293
+      "price": 10290,
+      "proceeds": 7203
     },
     "TH": {
       "symbol": "THB",
@@ -14391,7 +14391,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 870,
-      "proceeds": 575
+      "proceeds": 563
     },
     "TZ": {
       "symbol": "TZS",
@@ -14467,8 +14467,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 479.99,
-      "proceeds": 297.34
+      "price": 429.99,
+      "proceeds": 300.99
     },
     "MT": {
       "symbol": "EUR",
@@ -14784,8 +14784,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 3200,
-      "proceeds": 2240
+      "price": 3300,
+      "proceeds": 2310
     },
     "BH": {
       "symbol": "USD",
@@ -14819,8 +14819,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 279,
-      "proceeds": 156.24
+      "price": 329,
+      "proceeds": 184.24
     },
     "SG": {
       "symbol": "SGD",
@@ -14910,8 +14910,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 9290,
-      "proceeds": 6503
+      "price": 10490,
+      "proceeds": 7343
     },
     "TH": {
       "symbol": "THB",
@@ -14953,7 +14953,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 890,
-      "proceeds": 588
+      "proceeds": 576
     },
     "TZ": {
       "symbol": "TZS",
@@ -15029,8 +15029,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 499.99,
-      "proceeds": 309.73
+      "price": 449.99,
+      "proceeds": 314.99
     },
     "MT": {
       "symbol": "EUR",
@@ -15346,8 +15346,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 3400,
-      "proceeds": 2380
+      "price": 3420,
+      "proceeds": 2394
     },
     "BH": {
       "symbol": "USD",
@@ -15381,8 +15381,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 289,
-      "proceeds": 161.84
+      "price": 339,
+      "proceeds": 189.84
     },
     "SG": {
       "symbol": "SGD",
@@ -15472,8 +15472,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 9490,
-      "proceeds": 6643
+      "price": 10990,
+      "proceeds": 7693
     },
     "TH": {
       "symbol": "THB",
@@ -15515,7 +15515,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 930,
-      "proceeds": 614
+      "proceeds": 601
     },
     "TZ": {
       "symbol": "TZS",
@@ -15591,8 +15591,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 519.99,
-      "proceeds": 322.12
+      "price": 469.99,
+      "proceeds": 328.99
     },
     "MT": {
       "symbol": "EUR",
@@ -15908,8 +15908,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 3500,
-      "proceeds": 2450
+      "price": 3540,
+      "proceeds": 2478
     },
     "BH": {
       "symbol": "USD",
@@ -15943,8 +15943,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 299,
-      "proceeds": 167.44
+      "price": 349,
+      "proceeds": 195.44
     },
     "SG": {
       "symbol": "SGD",
@@ -16034,8 +16034,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 9790,
-      "proceeds": 6853
+      "price": 11490,
+      "proceeds": 8043
     },
     "TH": {
       "symbol": "THB",
@@ -16077,7 +16077,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 970,
-      "proceeds": 641
+      "proceeds": 627
     },
     "TZ": {
       "symbol": "TZS",
@@ -16153,8 +16153,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 529.99,
-      "proceeds": 328.31
+      "price": 479.99,
+      "proceeds": 335.99
     },
     "MT": {
       "symbol": "EUR",
@@ -16470,8 +16470,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 3600,
-      "proceeds": 2520
+      "price": 3680,
+      "proceeds": 2576
     },
     "BH": {
       "symbol": "USD",
@@ -16505,8 +16505,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 319,
-      "proceeds": 178.64
+      "price": 359,
+      "proceeds": 201.04
     },
     "SG": {
       "symbol": "SGD",
@@ -16596,8 +16596,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 9990,
-      "proceeds": 6993
+      "price": 11990,
+      "proceeds": 8393
     },
     "TH": {
       "symbol": "THB",
@@ -16639,7 +16639,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 990,
-      "proceeds": 654
+      "proceeds": 640
     },
     "TZ": {
       "symbol": "TZS",
@@ -16715,8 +16715,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 549.99,
-      "proceeds": 340.7
+      "price": 499.99,
+      "proceeds": 349.99
     },
     "MT": {
       "symbol": "EUR",
@@ -17032,8 +17032,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 3700,
-      "proceeds": 2590
+      "price": 3800,
+      "proceeds": 2660
     },
     "BH": {
       "symbol": "USD",
@@ -17067,8 +17067,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 329,
-      "proceeds": 184.24
+      "price": 379,
+      "proceeds": 212.24
     },
     "SG": {
       "symbol": "SGD",
@@ -17158,8 +17158,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 10490,
-      "proceeds": 7343
+      "price": 12290,
+      "proceeds": 8603
     },
     "TH": {
       "symbol": "THB",
@@ -17201,7 +17201,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1020,
-      "proceeds": 674
+      "proceeds": 660
     },
     "TZ": {
       "symbol": "TZS",
@@ -17277,8 +17277,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 579.99,
-      "proceeds": 359.29
+      "price": 519.99,
+      "proceeds": 363.99
     },
     "MT": {
       "symbol": "EUR",
@@ -17594,8 +17594,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 3800,
-      "proceeds": 2660
+      "price": 3920,
+      "proceeds": 2744
     },
     "BH": {
       "symbol": "USD",
@@ -17629,8 +17629,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 339,
-      "proceeds": 189.84
+      "price": 389,
+      "proceeds": 217.84
     },
     "SG": {
       "symbol": "SGD",
@@ -17720,8 +17720,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 10990,
-      "proceeds": 7693
+      "price": 12490,
+      "proceeds": 8743
     },
     "TH": {
       "symbol": "THB",
@@ -17763,7 +17763,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1050,
-      "proceeds": 694
+      "proceeds": 679
     },
     "TZ": {
       "symbol": "TZS",
@@ -17839,8 +17839,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 599.99,
-      "proceeds": 371.68
+      "price": 529.99,
+      "proceeds": 370.99
     },
     "MT": {
       "symbol": "EUR",
@@ -18156,8 +18156,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 4000,
-      "proceeds": 2800
+      "price": 4040,
+      "proceeds": 2828
     },
     "BH": {
       "symbol": "USD",
@@ -18191,8 +18191,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 349,
-      "proceeds": 195.44
+      "price": 399,
+      "proceeds": 223.44
     },
     "SG": {
       "symbol": "SGD",
@@ -18282,8 +18282,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 11490,
-      "proceeds": 8043
+      "price": 12990,
+      "proceeds": 9093
     },
     "TH": {
       "symbol": "THB",
@@ -18325,7 +18325,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1090,
-      "proceeds": 720
+      "proceeds": 705
     },
     "TZ": {
       "symbol": "TZS",
@@ -18401,8 +18401,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 619.99,
-      "proceeds": 384.06
+      "price": 549.99,
+      "proceeds": 384.99
     },
     "MT": {
       "symbol": "EUR",
@@ -18718,8 +18718,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 4100,
-      "proceeds": 2870
+      "price": 4160,
+      "proceeds": 2912
     },
     "BH": {
       "symbol": "USD",
@@ -18753,8 +18753,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 359,
-      "proceeds": 201.04
+      "price": 409,
+      "proceeds": 229.04
     },
     "SG": {
       "symbol": "SGD",
@@ -18844,8 +18844,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 11790,
-      "proceeds": 8253
+      "price": 13290,
+      "proceeds": 9303
     },
     "TH": {
       "symbol": "THB",
@@ -18887,7 +18887,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1120,
-      "proceeds": 740
+      "proceeds": 724
     },
     "TZ": {
       "symbol": "TZS",
@@ -18963,8 +18963,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 629.99,
-      "proceeds": 390.26
+      "price": 569.99,
+      "proceeds": 398.99
     },
     "MT": {
       "symbol": "EUR",
@@ -19280,8 +19280,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 4200,
-      "proceeds": 2940
+      "price": 4280,
+      "proceeds": 2996
     },
     "BH": {
       "symbol": "USD",
@@ -19315,8 +19315,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 369,
-      "proceeds": 206.64
+      "price": 419,
+      "proceeds": 234.64
     },
     "SG": {
       "symbol": "SGD",
@@ -19406,8 +19406,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 11990,
-      "proceeds": 8393
+      "price": 13490,
+      "proceeds": 9443
     },
     "TH": {
       "symbol": "THB",
@@ -19449,7 +19449,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1170,
-      "proceeds": 773
+      "proceeds": 757
     },
     "TZ": {
       "symbol": "TZS",
@@ -19525,8 +19525,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 649.99,
-      "proceeds": 402.65
+      "price": 579.99,
+      "proceeds": 405.99
     },
     "MT": {
       "symbol": "EUR",
@@ -19842,8 +19842,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 4300,
-      "proceeds": 3010
+      "price": 4400,
+      "proceeds": 3080
     },
     "BH": {
       "symbol": "USD",
@@ -19877,8 +19877,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 379,
-      "proceeds": 212.24
+      "price": 439,
+      "proceeds": 245.84
     },
     "SG": {
       "symbol": "SGD",
@@ -19968,8 +19968,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 12490,
-      "proceeds": 8743
+      "price": 13990,
+      "proceeds": 9793
     },
     "TH": {
       "symbol": "THB",
@@ -20011,7 +20011,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1190,
-      "proceeds": 786
+      "proceeds": 770
     },
     "TZ": {
       "symbol": "TZS",
@@ -20087,8 +20087,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 669.99,
-      "proceeds": 415.04
+      "price": 599.99,
+      "proceeds": 419.99
     },
     "MT": {
       "symbol": "EUR",
@@ -20404,8 +20404,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 4500,
-      "proceeds": 3150
+      "price": 4520,
+      "proceeds": 3164
     },
     "BH": {
       "symbol": "USD",
@@ -20439,8 +20439,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 389,
-      "proceeds": 217.84
+      "price": 449,
+      "proceeds": 251.44
     },
     "SG": {
       "symbol": "SGD",
@@ -20530,8 +20530,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 12790,
-      "proceeds": 8953
+      "price": 14290,
+      "proceeds": 10003
     },
     "TH": {
       "symbol": "THB",
@@ -20573,7 +20573,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1230,
-      "proceeds": 813
+      "proceeds": 795
     },
     "TZ": {
       "symbol": "TZS",
@@ -20649,8 +20649,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 679.99,
-      "proceeds": 421.23
+      "price": 619.99,
+      "proceeds": 433.99
     },
     "MT": {
       "symbol": "EUR",
@@ -20966,8 +20966,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 4600,
-      "proceeds": 3220
+      "price": 4640,
+      "proceeds": 3248
     },
     "BH": {
       "symbol": "USD",
@@ -21001,8 +21001,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 399,
-      "proceeds": 223.44
+      "price": 459,
+      "proceeds": 257.04
     },
     "SG": {
       "symbol": "SGD",
@@ -21092,8 +21092,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 12990,
-      "proceeds": 9093
+      "price": 14490,
+      "proceeds": 10143
     },
     "TH": {
       "symbol": "THB",
@@ -21135,7 +21135,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1260,
-      "proceeds": 832
+      "proceeds": 815
     },
     "TZ": {
       "symbol": "TZS",
@@ -21211,8 +21211,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 699.99,
-      "proceeds": 433.62
+      "price": 629.99,
+      "proceeds": 440.99
     },
     "MT": {
       "symbol": "EUR",
@@ -21528,8 +21528,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 4700,
-      "proceeds": 3290
+      "price": 4780,
+      "proceeds": 3346
     },
     "BH": {
       "symbol": "USD",
@@ -21563,8 +21563,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 409,
-      "proceeds": 229.04
+      "price": 469,
+      "proceeds": 262.64
     },
     "SG": {
       "symbol": "SGD",
@@ -21654,8 +21654,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 13490,
-      "proceeds": 9443
+      "price": 14990,
+      "proceeds": 10493
     },
     "TH": {
       "symbol": "THB",
@@ -21697,7 +21697,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1290,
-      "proceeds": 852
+      "proceeds": 834
     },
     "TZ": {
       "symbol": "TZS",
@@ -21773,8 +21773,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 729.99,
-      "proceeds": 452.21
+      "price": 649.99,
+      "proceeds": 454.99
     },
     "MT": {
       "symbol": "EUR",
@@ -22090,8 +22090,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 4800,
-      "proceeds": 3360
+      "price": 4900,
+      "proceeds": 3430
     },
     "BH": {
       "symbol": "USD",
@@ -22125,8 +22125,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 419,
-      "proceeds": 234.64
+      "price": 479,
+      "proceeds": 268.24
     },
     "SG": {
       "symbol": "SGD",
@@ -22216,8 +22216,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 13990,
-      "proceeds": 9793
+      "price": 15490,
+      "proceeds": 10843
     },
     "TH": {
       "symbol": "THB",
@@ -22259,7 +22259,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1320,
-      "proceeds": 872
+      "proceeds": 854
     },
     "TZ": {
       "symbol": "TZS",
@@ -22335,8 +22335,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 749.99,
-      "proceeds": 464.6
+      "price": 669.99,
+      "proceeds": 468.99
     },
     "MT": {
       "symbol": "EUR",
@@ -22652,8 +22652,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 5000,
-      "proceeds": 3500
+      "price": 5020,
+      "proceeds": 3514
     },
     "BH": {
       "symbol": "USD",
@@ -22687,8 +22687,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 429,
-      "proceeds": 240.24
+      "price": 499,
+      "proceeds": 279.44
     },
     "SG": {
       "symbol": "SGD",
@@ -22778,8 +22778,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 14290,
-      "proceeds": 10003
+      "price": 15990,
+      "proceeds": 11193
     },
     "TH": {
       "symbol": "THB",
@@ -22821,7 +22821,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1350,
-      "proceeds": 892
+      "proceeds": 873
     },
     "TZ": {
       "symbol": "TZS",
@@ -22897,8 +22897,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 759.99,
-      "proceeds": 470.79
+      "price": 679.99,
+      "proceeds": 475.99
     },
     "MT": {
       "symbol": "EUR",
@@ -23214,8 +23214,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 5100,
-      "proceeds": 3570
+      "price": 5140,
+      "proceeds": 3598
     },
     "BH": {
       "symbol": "USD",
@@ -23249,8 +23249,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 439,
-      "proceeds": 245.84
+      "price": 509,
+      "proceeds": 285.04
     },
     "SG": {
       "symbol": "SGD",
@@ -23340,8 +23340,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 14490,
-      "proceeds": 10143
+      "price": 16290,
+      "proceeds": 11403
     },
     "TH": {
       "symbol": "THB",
@@ -23383,7 +23383,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1390,
-      "proceeds": 918
+      "proceeds": 899
     },
     "TZ": {
       "symbol": "TZS",
@@ -23459,8 +23459,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 779.99,
-      "proceeds": 483.18
+      "price": 699.99,
+      "proceeds": 489.99
     },
     "MT": {
       "symbol": "EUR",
@@ -23776,8 +23776,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 5200,
-      "proceeds": 3640
+      "price": 5260,
+      "proceeds": 3682
     },
     "BH": {
       "symbol": "USD",
@@ -23811,8 +23811,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 449,
-      "proceeds": 251.44
+      "price": 519,
+      "proceeds": 290.64
     },
     "SG": {
       "symbol": "SGD",
@@ -23902,8 +23902,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 14990,
-      "proceeds": 10493
+      "price": 16490,
+      "proceeds": 11543
     },
     "TH": {
       "symbol": "THB",
@@ -23945,7 +23945,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1420,
-      "proceeds": 938
+      "proceeds": 918
     },
     "TZ": {
       "symbol": "TZS",
@@ -24021,8 +24021,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 799.99,
-      "proceeds": 495.57
+      "price": 719.99,
+      "proceeds": 503.99
     },
     "MT": {
       "symbol": "EUR",
@@ -24338,8 +24338,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 5300,
-      "proceeds": 3710
+      "price": 5380,
+      "proceeds": 3766
     },
     "BH": {
       "symbol": "USD",
@@ -24373,8 +24373,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 459,
-      "proceeds": 257.04
+      "price": 529,
+      "proceeds": 296.24
     },
     "SG": {
       "symbol": "SGD",
@@ -24464,8 +24464,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 15290,
-      "proceeds": 10703
+      "price": 16990,
+      "proceeds": 11893
     },
     "TH": {
       "symbol": "THB",
@@ -24507,7 +24507,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1470,
-      "proceeds": 971
+      "proceeds": 951
     },
     "TZ": {
       "symbol": "TZS",
@@ -24583,8 +24583,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 819.99,
-      "proceeds": 507.96
+      "price": 729.99,
+      "proceeds": 510.99
     },
     "MT": {
       "symbol": "EUR",
@@ -24900,8 +24900,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 5400,
-      "proceeds": 3780
+      "price": 5500,
+      "proceeds": 3850
     },
     "BH": {
       "symbol": "USD",
@@ -24935,8 +24935,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 469,
-      "proceeds": 262.64
+      "price": 539,
+      "proceeds": 301.84
     },
     "SG": {
       "symbol": "SGD",
@@ -25026,8 +25026,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 15490,
-      "proceeds": 10843
+      "price": 17490,
+      "proceeds": 12243
     },
     "TH": {
       "symbol": "THB",
@@ -25069,7 +25069,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1490,
-      "proceeds": 984
+      "proceeds": 964
     },
     "TZ": {
       "symbol": "TZS",
@@ -25145,8 +25145,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 829.99,
-      "proceeds": 514.15
+      "price": 749.99,
+      "proceeds": 524.99
     },
     "MT": {
       "symbol": "EUR",
@@ -25462,8 +25462,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 5600,
-      "proceeds": 3920
+      "price": 5620,
+      "proceeds": 3934
     },
     "BH": {
       "symbol": "USD",
@@ -25497,8 +25497,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 479,
-      "proceeds": 268.24
+      "price": 549,
+      "proceeds": 307.44
     },
     "SG": {
       "symbol": "SGD",
@@ -25588,8 +25588,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 15990,
-      "proceeds": 11193
+      "price": 17990,
+      "proceeds": 12593
     },
     "TH": {
       "symbol": "THB",
@@ -25631,7 +25631,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1530,
-      "proceeds": 1011
+      "proceeds": 989
     },
     "TZ": {
       "symbol": "TZS",
@@ -25707,8 +25707,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 849.99,
-      "proceeds": 526.54
+      "price": 769.99,
+      "proceeds": 538.99
     },
     "MT": {
       "symbol": "EUR",
@@ -26024,8 +26024,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 5700,
-      "proceeds": 3990
+      "price": 5740,
+      "proceeds": 4018
     },
     "BH": {
       "symbol": "USD",
@@ -26059,8 +26059,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 489,
-      "proceeds": 273.84
+      "price": 569,
+      "proceeds": 318.64
     },
     "SG": {
       "symbol": "SGD",
@@ -26150,8 +26150,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 16290,
-      "proceeds": 11403
+      "price": 18290,
+      "proceeds": 12803
     },
     "TH": {
       "symbol": "THB",
@@ -26193,7 +26193,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1560,
-      "proceeds": 1031
+      "proceeds": 1009
     },
     "TZ": {
       "symbol": "TZS",
@@ -26269,8 +26269,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 869.99,
-      "proceeds": 538.93
+      "price": 779.99,
+      "proceeds": 545.99
     },
     "MT": {
       "symbol": "EUR",
@@ -26586,8 +26586,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 5800,
-      "proceeds": 4060
+      "price": 5860,
+      "proceeds": 4102
     },
     "BH": {
       "symbol": "USD",
@@ -26621,8 +26621,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 499,
-      "proceeds": 279.44
+      "price": 579,
+      "proceeds": 324.24
     },
     "SG": {
       "symbol": "SGD",
@@ -26712,8 +26712,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 16490,
-      "proceeds": 11543
+      "price": 18490,
+      "proceeds": 12943
     },
     "TH": {
       "symbol": "THB",
@@ -26755,7 +26755,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1590,
-      "proceeds": 1050
+      "proceeds": 1028
     },
     "TZ": {
       "symbol": "TZS",
@@ -26831,8 +26831,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 879.99,
-      "proceeds": 545.13
+      "price": 799.99,
+      "proceeds": 559.99
     },
     "MT": {
       "symbol": "EUR",
@@ -27148,8 +27148,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 5900,
-      "proceeds": 4130
+      "price": 5980,
+      "proceeds": 4186
     },
     "BH": {
       "symbol": "USD",
@@ -27183,8 +27183,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 509,
-      "proceeds": 285.04
+      "price": 589,
+      "proceeds": 329.84
     },
     "SG": {
       "symbol": "SGD",
@@ -27274,8 +27274,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 16790,
-      "proceeds": 11753
+      "price": 18990,
+      "proceeds": 13293
     },
     "TH": {
       "symbol": "THB",
@@ -27317,7 +27317,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1630,
-      "proceeds": 1077
+      "proceeds": 1054
     },
     "TZ": {
       "symbol": "TZS",
@@ -27393,8 +27393,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 899.99,
-      "proceeds": 557.52
+      "price": 819.99,
+      "proceeds": 573.99
     },
     "MT": {
       "symbol": "EUR",
@@ -27710,8 +27710,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 6000,
-      "proceeds": 4200
+      "price": 6100,
+      "proceeds": 4270
     },
     "BH": {
       "symbol": "USD",
@@ -27745,8 +27745,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 519,
-      "proceeds": 290.64
+      "price": 595,
+      "proceeds": 333.2
     },
     "SG": {
       "symbol": "SGD",
@@ -27836,8 +27836,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 16990,
-      "proceeds": 11893
+      "price": 19990,
+      "proceeds": 13993
     },
     "TH": {
       "symbol": "THB",
@@ -27879,7 +27879,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1690,
-      "proceeds": 1117
+      "proceeds": 1093
     },
     "TZ": {
       "symbol": "TZS",
@@ -27955,8 +27955,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 949.99,
-      "proceeds": 588.49
+      "price": 829.99,
+      "proceeds": 580.99
     },
     "MT": {
       "symbol": "EUR",
@@ -28272,8 +28272,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 6800,
-      "proceeds": 4760
+      "price": 7000,
+      "proceeds": 4900
     },
     "BH": {
       "symbol": "USD",
@@ -28307,8 +28307,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 595,
-      "proceeds": 333.2
+      "price": 649,
+      "proceeds": 363.44
     },
     "SG": {
       "symbol": "SGD",
@@ -28398,8 +28398,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 17990,
-      "proceeds": 12593
+      "price": 20990,
+      "proceeds": 14693
     },
     "TH": {
       "symbol": "THB",
@@ -28441,7 +28441,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1790,
-      "proceeds": 1183
+      "proceeds": 1158
     },
     "TZ": {
       "symbol": "TZS",
@@ -28517,8 +28517,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 999.99,
-      "proceeds": 619.46
+      "price": 899.99,
+      "proceeds": 629.99
     },
     "MT": {
       "symbol": "EUR",
@@ -28834,8 +28834,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 7400,
-      "proceeds": 5180
+      "price": 7500,
+      "proceeds": 5250
     },
     "BH": {
       "symbol": "USD",
@@ -28869,8 +28869,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 649,
-      "proceeds": 363.44
+      "price": 695,
+      "proceeds": 389.2
     },
     "SG": {
       "symbol": "SGD",
@@ -28960,8 +28960,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 19990,
-      "proceeds": 13993
+      "price": 22990,
+      "proceeds": 16093
     },
     "TH": {
       "symbol": "THB",
@@ -29003,7 +29003,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 1990,
-      "proceeds": 1315
+      "proceeds": 1287
     },
     "TZ": {
       "symbol": "TZS",
@@ -29079,8 +29079,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 1099.99,
-      "proceeds": 681.41
+      "price": 999.99,
+      "proceeds": 699.99
     },
     "MT": {
       "symbol": "EUR",
@@ -29396,8 +29396,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 7800,
-      "proceeds": 5460
+      "price": 8000,
+      "proceeds": 5600
     },
     "BH": {
       "symbol": "USD",
@@ -29431,8 +29431,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 695,
-      "proceeds": 389.2
+      "price": 795,
+      "proceeds": 445.2
     },
     "SG": {
       "symbol": "SGD",
@@ -29522,8 +29522,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 22990,
-      "proceeds": 16093
+      "price": 24990,
+      "proceeds": 17493
     },
     "TH": {
       "symbol": "THB",
@@ -29565,7 +29565,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 2190,
-      "proceeds": 1447
+      "proceeds": 1416
     },
     "TZ": {
       "symbol": "TZS",
@@ -29641,8 +29641,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 1199.99,
-      "proceeds": 743.36
+      "price": 1099.99,
+      "proceeds": 769.99
     },
     "MT": {
       "symbol": "EUR",
@@ -29958,8 +29958,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 8400,
-      "proceeds": 5880
+      "price": 8500,
+      "proceeds": 5950
     },
     "BH": {
       "symbol": "USD",
@@ -29993,8 +29993,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 749,
-      "proceeds": 419.44
+      "price": 849,
+      "proceeds": 475.44
     },
     "SG": {
       "symbol": "SGD",
@@ -30084,8 +30084,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 24990,
-      "proceeds": 17493
+      "price": 27990,
+      "proceeds": 19593
     },
     "TH": {
       "symbol": "THB",
@@ -30127,7 +30127,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 2290,
-      "proceeds": 1513
+      "proceeds": 1481
     },
     "TZ": {
       "symbol": "TZS",
@@ -30203,8 +30203,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 1299.99,
-      "proceeds": 805.3
+      "price": 1199.99,
+      "proceeds": 839.99
     },
     "MT": {
       "symbol": "EUR",
@@ -30520,8 +30520,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 8800,
-      "proceeds": 6160
+      "price": 9000,
+      "proceeds": 6300
     },
     "BH": {
       "symbol": "USD",
@@ -30555,8 +30555,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 795,
-      "proceeds": 445.2
+      "price": 895,
+      "proceeds": 501.2
     },
     "SG": {
       "symbol": "SGD",
@@ -30646,8 +30646,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 25990,
-      "proceeds": 18193
+      "price": 29990,
+      "proceeds": 20993
     },
     "TH": {
       "symbol": "THB",
@@ -30689,7 +30689,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 2490,
-      "proceeds": 1645
+      "proceeds": 1610
     },
     "TZ": {
       "symbol": "TZS",
@@ -30765,8 +30765,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 1399.99,
-      "proceeds": 867.25
+      "price": 1249.99,
+      "proceeds": 874.99
     },
     "MT": {
       "symbol": "EUR",
@@ -31082,8 +31082,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 9800,
-      "proceeds": 6860
+      "price": 10000,
+      "proceeds": 7000
     },
     "BH": {
       "symbol": "USD",
@@ -31117,8 +31117,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 849,
-      "proceeds": 475.44
+      "price": 949,
+      "proceeds": 531.44
     },
     "SG": {
       "symbol": "SGD",
@@ -31208,8 +31208,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 27990,
-      "proceeds": 19593
+      "price": 30990,
+      "proceeds": 21693
     },
     "TH": {
       "symbol": "THB",
@@ -31251,7 +31251,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 2690,
-      "proceeds": 1777
+      "proceeds": 1740
     },
     "TZ": {
       "symbol": "TZS",
@@ -31327,8 +31327,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 1499.99,
-      "proceeds": 929.2
+      "price": 1299.99,
+      "proceeds": 909.99
     },
     "MT": {
       "symbol": "EUR",
@@ -31644,8 +31644,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 10400,
-      "proceeds": 7280
+      "price": 10500,
+      "proceeds": 7350
     },
     "BH": {
       "symbol": "USD",
@@ -31679,8 +31679,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 895,
-      "proceeds": 501.2
+      "price": 995,
+      "proceeds": 557.2
     },
     "SG": {
       "symbol": "SGD",
@@ -31770,8 +31770,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 29990,
-      "proceeds": 20993
+      "price": 32990,
+      "proceeds": 23093
     },
     "TH": {
       "symbol": "THB",
@@ -31813,7 +31813,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 2790,
-      "proceeds": 1843
+      "proceeds": 1804
     },
     "TZ": {
       "symbol": "TZS",
@@ -31889,8 +31889,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 1599.99,
-      "proceeds": 991.14
+      "price": 1399.99,
+      "proceeds": 979.99
     },
     "MT": {
       "symbol": "EUR",
@@ -32206,8 +32206,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 10800,
-      "proceeds": 7560
+      "price": 11000,
+      "proceeds": 7700
     },
     "BH": {
       "symbol": "USD",
@@ -32241,8 +32241,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 949,
-      "proceeds": 531.44
+      "price": 1095,
+      "proceeds": 613.2
     },
     "SG": {
       "symbol": "SGD",
@@ -32332,8 +32332,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 30990,
-      "proceeds": 21693
+      "price": 34990,
+      "proceeds": 24493
     },
     "TH": {
       "symbol": "THB",
@@ -32375,7 +32375,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 2990,
-      "proceeds": 1975
+      "proceeds": 1934
     },
     "TZ": {
       "symbol": "TZS",
@@ -32451,8 +32451,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 1699.99,
-      "proceeds": 1053.09
+      "price": 1499.99,
+      "proceeds": 1049.99
     },
     "MT": {
       "symbol": "EUR",
@@ -32768,8 +32768,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 11400,
-      "proceeds": 7980
+      "price": 11500,
+      "proceeds": 8050
     },
     "BH": {
       "symbol": "USD",
@@ -32803,8 +32803,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 995,
-      "proceeds": 557.2
+      "price": 1149,
+      "proceeds": 643.44
     },
     "SG": {
       "symbol": "SGD",
@@ -32894,8 +32894,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 32990,
-      "proceeds": 23093
+      "price": 37990,
+      "proceeds": 26593
     },
     "TH": {
       "symbol": "THB",
@@ -32937,7 +32937,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 3190,
-      "proceeds": 2108
+      "proceeds": 2063
     },
     "TZ": {
       "symbol": "TZS",
@@ -33013,8 +33013,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 1799.99,
-      "proceeds": 1115.04
+      "price": 1599.99,
+      "proceeds": 1119.99
     },
     "MT": {
       "symbol": "EUR",
@@ -33330,8 +33330,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 11800,
-      "proceeds": 8260
+      "price": 12000,
+      "proceeds": 8400
     },
     "BH": {
       "symbol": "USD",
@@ -33365,8 +33365,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1095,
-      "proceeds": 613.2
+      "price": 1195,
+      "proceeds": 669.2
     },
     "SG": {
       "symbol": "SGD",
@@ -33456,8 +33456,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 34990,
-      "proceeds": 24493
+      "price": 39990,
+      "proceeds": 27993
     },
     "TH": {
       "symbol": "THB",
@@ -33499,7 +33499,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 3290,
-      "proceeds": 2174
+      "proceeds": 2128
     },
     "TZ": {
       "symbol": "TZS",
@@ -33575,8 +33575,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 1899.99,
-      "proceeds": 1176.99
+      "price": 1699.99,
+      "proceeds": 1189.99
     },
     "MT": {
       "symbol": "EUR",
@@ -33892,8 +33892,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 12800,
-      "proceeds": 8960
+      "price": 13000,
+      "proceeds": 9100
     },
     "BH": {
       "symbol": "USD",
@@ -33927,8 +33927,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1195,
-      "proceeds": 669.2
+      "price": 1295,
+      "proceeds": 725.2
     },
     "SG": {
       "symbol": "SGD",
@@ -34018,8 +34018,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 37990,
-      "proceeds": 26593
+      "price": 42990,
+      "proceeds": 30093
     },
     "TH": {
       "symbol": "THB",
@@ -34061,7 +34061,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 3690,
-      "proceeds": 2438
+      "proceeds": 2386
     },
     "TZ": {
       "symbol": "TZS",
@@ -34137,8 +34137,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 1999.99,
-      "proceeds": 1238.93
+      "price": 1799.99,
+      "proceeds": 1259.99
     },
     "MT": {
       "symbol": "EUR",
@@ -34454,8 +34454,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 13800,
-      "proceeds": 9660
+      "price": 14000,
+      "proceeds": 9800
     },
     "BH": {
       "symbol": "USD",
@@ -34489,8 +34489,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1295,
-      "proceeds": 725.2
+      "price": 1395,
+      "proceeds": 781.2
     },
     "SG": {
       "symbol": "SGD",
@@ -34580,8 +34580,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 39990,
-      "proceeds": 27993
+      "price": 44990,
+      "proceeds": 31493
     },
     "TH": {
       "symbol": "THB",
@@ -34623,7 +34623,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 3990,
-      "proceeds": 2636
+      "proceeds": 2580
     },
     "TZ": {
       "symbol": "TZS",
@@ -34699,8 +34699,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 2299.99,
-      "proceeds": 1424.77
+      "price": 1999.99,
+      "proceeds": 1399.99
     },
     "MT": {
       "symbol": "EUR",
@@ -35016,8 +35016,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 14800,
-      "proceeds": 10360
+      "price": 15000,
+      "proceeds": 10500
     },
     "BH": {
       "symbol": "USD",
@@ -35051,8 +35051,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1349,
-      "proceeds": 755.44
+      "price": 1495,
+      "proceeds": 837.2
     },
     "SG": {
       "symbol": "SGD",
@@ -35142,8 +35142,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 42990,
-      "proceeds": 30093
+      "price": 47990,
+      "proceeds": 33593
     },
     "TH": {
       "symbol": "THB",
@@ -35185,7 +35185,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 4190,
-      "proceeds": 2768
+      "proceeds": 2710
     },
     "TZ": {
       "symbol": "TZS",
@@ -35261,8 +35261,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 2399.99,
-      "proceeds": 1486.72
+      "price": 2099.99,
+      "proceeds": 1469.99
     },
     "MT": {
       "symbol": "EUR",
@@ -35578,8 +35578,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 15800,
-      "proceeds": 11060
+      "price": 16000,
+      "proceeds": 11200
     },
     "BH": {
       "symbol": "USD",
@@ -35613,8 +35613,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1395,
-      "proceeds": 781.2
+      "price": 1595,
+      "proceeds": 893.2
     },
     "SG": {
       "symbol": "SGD",
@@ -35704,8 +35704,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 44990,
-      "proceeds": 31493
+      "price": 49990,
+      "proceeds": 34993
     },
     "TH": {
       "symbol": "THB",
@@ -35747,7 +35747,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 4290,
-      "proceeds": 2834
+      "proceeds": 2774
     },
     "TZ": {
       "symbol": "TZS",
@@ -35823,8 +35823,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 2499.99,
-      "proceeds": 1548.67
+      "price": 2199.99,
+      "proceeds": 1539.99
     },
     "MT": {
       "symbol": "EUR",
@@ -36140,8 +36140,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 16800,
-      "proceeds": 11760
+      "price": 17000,
+      "proceeds": 11900
     },
     "BH": {
       "symbol": "USD",
@@ -36175,8 +36175,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1495,
-      "proceeds": 837.2
+      "price": 1695,
+      "proceeds": 949.2
     },
     "SG": {
       "symbol": "SGD",
@@ -36266,8 +36266,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 49990,
-      "proceeds": 34993
+      "price": 54990,
+      "proceeds": 38493
     },
     "TH": {
       "symbol": "THB",
@@ -36309,7 +36309,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 4790,
-      "proceeds": 3165
+      "proceeds": 3098
     },
     "TZ": {
       "symbol": "TZS",
@@ -36385,8 +36385,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 2599.99,
-      "proceeds": 1610.61
+      "price": 2299.99,
+      "proceeds": 1609.99
     },
     "MT": {
       "symbol": "EUR",
@@ -36702,8 +36702,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 17800,
-      "proceeds": 12460
+      "price": 18000,
+      "proceeds": 12600
     },
     "BH": {
       "symbol": "USD",
@@ -36737,8 +36737,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1595,
-      "proceeds": 893.2
+      "price": 1795,
+      "proceeds": 1005.2
     },
     "SG": {
       "symbol": "SGD",
@@ -36828,8 +36828,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 52990,
-      "proceeds": 37093
+      "price": 57990,
+      "proceeds": 40593
     },
     "TH": {
       "symbol": "THB",
@@ -36871,7 +36871,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 4990,
-      "proceeds": 3297
+      "proceeds": 3227
     },
     "TZ": {
       "symbol": "TZS",
@@ -36947,8 +36947,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 2799.99,
-      "proceeds": 1734.51
+      "price": 2499.99,
+      "proceeds": 1749.99
     },
     "MT": {
       "symbol": "EUR",
@@ -37264,8 +37264,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 18800,
-      "proceeds": 13160
+      "price": 19000,
+      "proceeds": 13300
     },
     "BH": {
       "symbol": "USD",
@@ -37299,8 +37299,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1695,
-      "proceeds": 949.2
+      "price": 1895,
+      "proceeds": 1061.2
     },
     "SG": {
       "symbol": "SGD",
@@ -37390,8 +37390,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 54990,
-      "proceeds": 38493
+      "price": 59990,
+      "proceeds": 41993
     },
     "TH": {
       "symbol": "THB",
@@ -37433,7 +37433,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 5390,
-      "proceeds": 3561
+      "proceeds": 3486
     },
     "TZ": {
       "symbol": "TZS",
@@ -37509,8 +37509,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 2999.99,
-      "proceeds": 1858.4
+      "price": 2699.99,
+      "proceeds": 1889.99
     },
     "MT": {
       "symbol": "EUR",
@@ -37826,8 +37826,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 19800,
-      "proceeds": 13860
+      "price": 20000,
+      "proceeds": 14000
     },
     "BH": {
       "symbol": "USD",
@@ -37861,8 +37861,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1795,
-      "proceeds": 1005.2
+      "price": 1995,
+      "proceeds": 1117.2
     },
     "SG": {
       "symbol": "SGD",
@@ -37952,8 +37952,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 57990,
-      "proceeds": 40593
+      "price": 64990,
+      "proceeds": 45493
     },
     "TH": {
       "symbol": "THB",
@@ -37995,7 +37995,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 5490,
-      "proceeds": 3627
+      "proceeds": 3550
     },
     "TZ": {
       "symbol": "TZS",
@@ -38071,8 +38071,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 3199.99,
-      "proceeds": 1982.29
+      "price": 2799.99,
+      "proceeds": 1959.99
     },
     "MT": {
       "symbol": "EUR",
@@ -38388,8 +38388,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 20800,
-      "proceeds": 14560
+      "price": 21000,
+      "proceeds": 14700
     },
     "BH": {
       "symbol": "USD",
@@ -38423,8 +38423,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1849,
-      "proceeds": 1035.44
+      "price": 2095,
+      "proceeds": 1173.2
     },
     "SG": {
       "symbol": "SGD",
@@ -38514,8 +38514,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 59990,
-      "proceeds": 41993
+      "price": 67990,
+      "proceeds": 47593
     },
     "TH": {
       "symbol": "THB",
@@ -38557,7 +38557,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 5690,
-      "proceeds": 3759
+      "proceeds": 3680
     },
     "TZ": {
       "symbol": "TZS",
@@ -38633,8 +38633,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 3299.99,
-      "proceeds": 2044.24
+      "price": 2899.99,
+      "proceeds": 2029.99
     },
     "MT": {
       "symbol": "EUR",
@@ -38950,8 +38950,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 21800,
-      "proceeds": 15260
+      "price": 22000,
+      "proceeds": 15400
     },
     "BH": {
       "symbol": "USD",
@@ -38985,8 +38985,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1895,
-      "proceeds": 1061.2
+      "price": 2195,
+      "proceeds": 1229.2
     },
     "SG": {
       "symbol": "SGD",
@@ -39076,8 +39076,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 62990,
-      "proceeds": 44093
+      "price": 69990,
+      "proceeds": 48993
     },
     "TH": {
       "symbol": "THB",
@@ -39119,7 +39119,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 5990,
-      "proceeds": 3957
+      "proceeds": 3874
     },
     "TZ": {
       "symbol": "TZS",
@@ -39195,8 +39195,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 3399.99,
-      "proceeds": 2106.19
+      "price": 2999.99,
+      "proceeds": 2099.99
     },
     "MT": {
       "symbol": "EUR",
@@ -39512,8 +39512,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 22800,
-      "proceeds": 15960
+      "price": 23000,
+      "proceeds": 16100
     },
     "BH": {
       "symbol": "USD",
@@ -39547,8 +39547,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 1995,
-      "proceeds": 1117.2
+      "price": 2295,
+      "proceeds": 1285.2
     },
     "SG": {
       "symbol": "SGD",
@@ -39638,8 +39638,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 64990,
-      "proceeds": 45493
+      "price": 74990,
+      "proceeds": 52493
     },
     "TH": {
       "symbol": "THB",
@@ -39681,7 +39681,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 6290,
-      "proceeds": 4156
+      "proceeds": 4068
     },
     "TZ": {
       "symbol": "TZS",
@@ -39757,8 +39757,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 3499.99,
-      "proceeds": 2168.14
+      "price": 3199.99,
+      "proceeds": 2239.99
     },
     "MT": {
       "symbol": "EUR",
@@ -40074,8 +40074,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 23800,
-      "proceeds": 16660
+      "price": 24000,
+      "proceeds": 16800
     },
     "BH": {
       "symbol": "USD",
@@ -40109,8 +40109,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 2095,
-      "proceeds": 1173.2
+      "price": 2395,
+      "proceeds": 1341.2
     },
     "SG": {
       "symbol": "SGD",
@@ -40200,8 +40200,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 69990,
-      "proceeds": 48993
+      "price": 77990,
+      "proceeds": 54593
     },
     "TH": {
       "symbol": "THB",
@@ -40243,7 +40243,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 6590,
-      "proceeds": 4354
+      "proceeds": 4262
     },
     "TZ": {
       "symbol": "TZS",
@@ -40319,8 +40319,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 3799.99,
-      "proceeds": 2353.98
+      "price": 3299.99,
+      "proceeds": 2309.99
     },
     "MT": {
       "symbol": "EUR",
@@ -40636,8 +40636,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 24800,
-      "proceeds": 17360
+      "price": 25400,
+      "proceeds": 17780
     },
     "BH": {
       "symbol": "USD",
@@ -40671,8 +40671,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 2195,
-      "proceeds": 1229.2
+      "price": 2495,
+      "proceeds": 1397.2
     },
     "SG": {
       "symbol": "SGD",
@@ -40762,8 +40762,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 72990,
-      "proceeds": 51093
+      "price": 79990,
+      "proceeds": 55993
     },
     "TH": {
       "symbol": "THB",
@@ -40805,7 +40805,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 6890,
-      "proceeds": 4552
+      "proceeds": 4456
     },
     "TZ": {
       "symbol": "TZS",
@@ -40881,8 +40881,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 3999.99,
-      "proceeds": 2477.87
+      "price": 3499.99,
+      "proceeds": 2449.99
     },
     "MT": {
       "symbol": "EUR",
@@ -41198,8 +41198,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 26800,
-      "proceeds": 18760
+      "price": 27400,
+      "proceeds": 19180
     },
     "BH": {
       "symbol": "USD",
@@ -41233,8 +41233,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 2295,
-      "proceeds": 1285.2
+      "price": 2595,
+      "proceeds": 1453.2
     },
     "SG": {
       "symbol": "SGD",
@@ -41324,8 +41324,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 74990,
-      "proceeds": 52493
+      "price": 84990,
+      "proceeds": 59493
     },
     "TH": {
       "symbol": "THB",
@@ -41367,7 +41367,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 7190,
-      "proceeds": 4750
+      "proceeds": 4650
     },
     "TZ": {
       "symbol": "TZS",
@@ -41443,8 +41443,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 4199.99,
-      "proceeds": 2601.76
+      "price": 3699.99,
+      "proceeds": 2589.99
     },
     "MT": {
       "symbol": "EUR",
@@ -41760,8 +41760,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 27800,
-      "proceeds": 19460
+      "price": 28400,
+      "proceeds": 19880
     },
     "BH": {
       "symbol": "USD",
@@ -41795,8 +41795,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 2395,
-      "proceeds": 1341.2
+      "price": 2795,
+      "proceeds": 1565.2
     },
     "SG": {
       "symbol": "SGD",
@@ -41886,8 +41886,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 79990,
-      "proceeds": 55993
+      "price": 89990,
+      "proceeds": 62993
     },
     "TH": {
       "symbol": "THB",
@@ -41929,7 +41929,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 7490,
-      "proceeds": 4948
+      "proceeds": 4844
     },
     "TZ": {
       "symbol": "TZS",
@@ -42005,8 +42005,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 4299.99,
-      "proceeds": 2663.71
+      "price": 3799.99,
+      "proceeds": 2659.99
     },
     "MT": {
       "symbol": "EUR",
@@ -42322,8 +42322,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 28800,
-      "proceeds": 20160
+      "price": 29400,
+      "proceeds": 20580
     },
     "BH": {
       "symbol": "USD",
@@ -42357,8 +42357,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 2495,
-      "proceeds": 1397.2
+      "price": 2895,
+      "proceeds": 1621.2
     },
     "SG": {
       "symbol": "SGD",
@@ -42448,8 +42448,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 84990,
-      "proceeds": 59493
+      "price": 94990,
+      "proceeds": 66493
     },
     "TH": {
       "symbol": "THB",
@@ -42491,7 +42491,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 7790,
-      "proceeds": 5147
+      "proceeds": 5038
     },
     "TZ": {
       "symbol": "TZS",
@@ -42567,8 +42567,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 4499.99,
-      "proceeds": 2787.6
+      "price": 3999.99,
+      "proceeds": 2799.99
     },
     "MT": {
       "symbol": "EUR",
@@ -42884,8 +42884,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 29800,
-      "proceeds": 20860
+      "price": 30400,
+      "proceeds": 21280
     },
     "BH": {
       "symbol": "USD",
@@ -42919,8 +42919,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 2595,
-      "proceeds": 1453.2
+      "price": 2995,
+      "proceeds": 1677.2
     },
     "SG": {
       "symbol": "SGD",
@@ -43010,8 +43010,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 89990,
-      "proceeds": 62993
+      "price": 99990,
+      "proceeds": 69993
     },
     "TH": {
       "symbol": "THB",
@@ -43053,7 +43053,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 8390,
-      "proceeds": 5543
+      "proceeds": 5426
     },
     "TZ": {
       "symbol": "TZS",
@@ -43129,8 +43129,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 4799.99,
-      "proceeds": 2973.45
+      "price": 4199.99,
+      "proceeds": 2939.99
     },
     "MT": {
       "symbol": "EUR",
@@ -43446,8 +43446,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 34800,
-      "proceeds": 24360
+      "price": 36800,
+      "proceeds": 25760
     },
     "BH": {
       "symbol": "USD",
@@ -43481,8 +43481,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 3195,
-      "proceeds": 1789.2
+      "price": 3695,
+      "proceeds": 2069.2
     },
     "SG": {
       "symbol": "SGD",
@@ -43572,8 +43572,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 99990,
-      "proceeds": 69993
+      "price": 119990,
+      "proceeds": 83993
     },
     "TH": {
       "symbol": "THB",
@@ -43615,7 +43615,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 9990,
-      "proceeds": 6600
+      "proceeds": 6460
     },
     "TZ": {
       "symbol": "TZS",
@@ -43691,8 +43691,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 5499.99,
-      "proceeds": 3407.07
+      "price": 4799.99,
+      "proceeds": 3359.99
     },
     "MT": {
       "symbol": "EUR",
@@ -44008,8 +44008,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 42800,
-      "proceeds": 29960
+      "price": 43800,
+      "proceeds": 30660
     },
     "BH": {
       "symbol": "USD",
@@ -44043,8 +44043,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 3695,
-      "proceeds": 2069.2
+      "price": 4295,
+      "proceeds": 2405.2
     },
     "SG": {
       "symbol": "SGD",
@@ -44134,8 +44134,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 119990,
-      "proceeds": 83993
+      "price": 139990,
+      "proceeds": 97993
     },
     "TH": {
       "symbol": "THB",
@@ -44177,7 +44177,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 11900,
-      "proceeds": 7862
+      "proceeds": 7695
     },
     "TZ": {
       "symbol": "TZS",
@@ -44253,8 +44253,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 6499.99,
-      "proceeds": 4026.54
+      "price": 5499.99,
+      "proceeds": 3849.99
     },
     "MT": {
       "symbol": "EUR",
@@ -44570,8 +44570,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 48800,
-      "proceeds": 34160
+      "price": 49800,
+      "proceeds": 34860
     },
     "BH": {
       "symbol": "USD",
@@ -44605,8 +44605,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 4295,
-      "proceeds": 2405.2
+      "price": 4995,
+      "proceeds": 2797.2
     },
     "SG": {
       "symbol": "SGD",
@@ -44696,8 +44696,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 139990,
-      "proceeds": 97993
+      "price": 149990,
+      "proceeds": 104993
     },
     "TH": {
       "symbol": "THB",
@@ -44739,7 +44739,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 12900,
-      "proceeds": 8523
+      "proceeds": 8342
     },
     "TZ": {
       "symbol": "TZS",
@@ -44815,8 +44815,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 7499.99,
-      "proceeds": 4646.01
+      "price": 6499.99,
+      "proceeds": 4549.99
     },
     "MT": {
       "symbol": "EUR",
@@ -45132,8 +45132,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 54800,
-      "proceeds": 38360
+      "price": 55800,
+      "proceeds": 39060
     },
     "BH": {
       "symbol": "USD",
@@ -45167,8 +45167,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 4795,
-      "proceeds": 2685.2
+      "price": 5495,
+      "proceeds": 3077.2
     },
     "SG": {
       "symbol": "SGD",
@@ -45258,8 +45258,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 149990,
-      "proceeds": 104993
+      "price": 179990,
+      "proceeds": 125993
     },
     "TH": {
       "symbol": "THB",
@@ -45301,7 +45301,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 14900,
-      "proceeds": 9844
+      "proceeds": 9635
     },
     "TZ": {
       "symbol": "TZS",
@@ -45377,8 +45377,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 8499.99,
-      "proceeds": 5265.48
+      "price": 7499.99,
+      "proceeds": 5249.99
     },
     "MT": {
       "symbol": "EUR",
@@ -45694,8 +45694,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 58800,
-      "proceeds": 41160
+      "price": 59800,
+      "proceeds": 41860
     },
     "BH": {
       "symbol": "USD",
@@ -45729,8 +45729,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 5495,
-      "proceeds": 3077.2
+      "price": 5995,
+      "proceeds": 3357.2
     },
     "SG": {
       "symbol": "SGD",
@@ -45820,8 +45820,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 169990,
-      "proceeds": 118993
+      "price": 199990,
+      "proceeds": 139993
     },
     "TH": {
       "symbol": "THB",
@@ -45863,7 +45863,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 16900,
-      "proceeds": 11165
+      "proceeds": 10929
     },
     "TZ": {
       "symbol": "TZS",
@@ -45939,8 +45939,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 9499.99,
-      "proceeds": 5884.95
+      "price": 8499.99,
+      "proceeds": 5949.99
     },
     "MT": {
       "symbol": "EUR",
@@ -46291,8 +46291,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 6495,
-      "proceeds": 3637.2
+      "price": 7495,
+      "proceeds": 4197.2
     },
     "SG": {
       "symbol": "SGD",
@@ -46382,8 +46382,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 199990,
-      "proceeds": 139993
+      "price": 229990,
+      "proceeds": 160993
     },
     "TH": {
       "symbol": "THB",
@@ -46425,7 +46425,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 19900,
-      "proceeds": 13147
+      "proceeds": 12869
     },
     "TZ": {
       "symbol": "TZS",
@@ -46501,8 +46501,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 11999.99,
-      "proceeds": 7433.62
+      "price": 9499.99,
+      "proceeds": 6649.99
     },
     "MT": {
       "symbol": "EUR",
@@ -46818,8 +46818,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 84800,
-      "proceeds": 59360
+      "price": 89800,
+      "proceeds": 62860
     },
     "BH": {
       "symbol": "USD",
@@ -46853,8 +46853,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 7495,
-      "proceeds": 4197.2
+      "price": 8495,
+      "proceeds": 4757.2
     },
     "SG": {
       "symbol": "SGD",
@@ -46944,8 +46944,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 249990,
-      "proceeds": 174993
+      "price": 279990,
+      "proceeds": 195993
     },
     "TH": {
       "symbol": "THB",
@@ -46987,7 +46987,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 22900,
-      "proceeds": 15129
+      "proceeds": 14809
     },
     "TZ": {
       "symbol": "TZS",
@@ -47063,8 +47063,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 12999.99,
-      "proceeds": 8053.09
+      "price": 11999.99,
+      "proceeds": 8399.99
     },
     "MT": {
       "symbol": "EUR",
@@ -47380,8 +47380,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 98800,
-      "proceeds": 69160
+      "price": 99800,
+      "proceeds": 69860
     },
     "BH": {
       "symbol": "USD",
@@ -47415,8 +47415,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 8495,
-      "proceeds": 4757.2
+      "price": 9495,
+      "proceeds": 5317.2
     },
     "SG": {
       "symbol": "SGD",
@@ -47506,8 +47506,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 279990,
-      "proceeds": 195993
+      "price": 299990,
+      "proceeds": 209993
     },
     "TH": {
       "symbol": "THB",
@@ -47549,7 +47549,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 26900,
-      "proceeds": 17772
+      "proceeds": 17395
     },
     "TZ": {
       "symbol": "TZS",
@@ -47625,8 +47625,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 14999.99,
-      "proceeds": 9292.03
+      "price": 12999.99,
+      "proceeds": 9099.99
     },
     "MT": {
       "symbol": "EUR",
@@ -47942,8 +47942,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 108800,
-      "proceeds": 76160
+      "price": 109800,
+      "proceeds": 76860
     },
     "BH": {
       "symbol": "USD",
@@ -47977,8 +47977,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 9495,
-      "proceeds": 5317.2
+      "price": 10995,
+      "proceeds": 6157.2
     },
     "SG": {
       "symbol": "SGD",
@@ -48068,8 +48068,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 299990,
-      "proceeds": 209993
+      "price": 349990,
+      "proceeds": 244993
     },
     "TH": {
       "symbol": "THB",
@@ -48111,7 +48111,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 29900,
-      "proceeds": 19754
+      "proceeds": 19335
     },
     "TZ": {
       "symbol": "TZS",
@@ -48187,8 +48187,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 16999.99,
-      "proceeds": 10530.97
+      "price": 14999.99,
+      "proceeds": 10499.99
     },
     "MT": {
       "symbol": "EUR",
@@ -48504,8 +48504,8 @@
       "symbol": "JPY",
       "country": "Japan",
       "countryCode": "JP",
-      "price": 118800,
-      "proceeds": 83160
+      "price": 119800,
+      "proceeds": 83860
     },
     "BH": {
       "symbol": "USD",
@@ -48539,8 +48539,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 10995,
-      "proceeds": 6157.2
+      "price": 11995,
+      "proceeds": 6717.2
     },
     "SG": {
       "symbol": "SGD",
@@ -48630,8 +48630,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 349990,
-      "proceeds": 244993
+      "price": 399990,
+      "proceeds": 279993
     },
     "TH": {
       "symbol": "THB",
@@ -48673,7 +48673,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 32900,
-      "proceeds": 21736
+      "proceeds": 21275
     },
     "TZ": {
       "symbol": "TZS",
@@ -48749,8 +48749,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 18999.99,
-      "proceeds": 11769.91
+      "price": 16999.99,
+      "proceeds": 11899.99
     },
     "MT": {
       "symbol": "EUR",
@@ -49797,7 +49797,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 33,
-      "proceeds": 22
+      "proceeds": 21
     },
     "TZ": {
       "symbol": "TZS",
@@ -49874,7 +49874,7 @@
       "country": "Egypt",
       "countryCode": "EG",
       "price": 4.99,
-      "proceeds": 3.09
+      "proceeds": 3.49
     },
     "MT": {
       "symbol": "EUR",
@@ -50359,7 +50359,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 33,
-      "proceeds": 22
+      "proceeds": 21
     },
     "TZ": {
       "symbol": "TZS",
@@ -50436,7 +50436,7 @@
       "country": "Egypt",
       "countryCode": "EG",
       "price": 9.99,
-      "proceeds": 6.19
+      "proceeds": 6.99
     },
     "MT": {
       "symbol": "EUR",
@@ -50787,8 +50787,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 10,
-      "proceeds": 5.6
+      "price": 12,
+      "proceeds": 6.72
     },
     "SG": {
       "symbol": "SGD",
@@ -50878,8 +50878,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 349,
-      "proceeds": 244.3
+      "price": 399,
+      "proceeds": 279.3
     },
     "TH": {
       "symbol": "THB",
@@ -50921,7 +50921,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 33,
-      "proceeds": 22
+      "proceeds": 21
     },
     "TZ": {
       "symbol": "TZS",
@@ -50997,8 +50997,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 18.99,
-      "proceeds": 11.76
+      "price": 16.99,
+      "proceeds": 11.89
     },
     "MT": {
       "symbol": "EUR",
@@ -51349,8 +51349,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 20,
-      "proceeds": 11.2
+      "price": 25,
+      "proceeds": 14
     },
     "SG": {
       "symbol": "SGD",
@@ -51440,8 +51440,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 699,
-      "proceeds": 489.3
+      "price": 799,
+      "proceeds": 559.3
     },
     "TH": {
       "symbol": "THB",
@@ -51483,7 +51483,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 70,
-      "proceeds": 46
+      "proceeds": 45
     },
     "TZ": {
       "symbol": "TZS",
@@ -51559,8 +51559,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 37.99,
-      "proceeds": 23.53
+      "price": 32.99,
+      "proceeds": 23.09
     },
     "MT": {
       "symbol": "EUR",
@@ -51911,8 +51911,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 35,
-      "proceeds": 19.6
+      "price": 40,
+      "proceeds": 22.4
     },
     "SG": {
       "symbol": "SGD",
@@ -52002,8 +52002,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 999,
-      "proceeds": 699.3
+      "price": 1190,
+      "proceeds": 833
     },
     "TH": {
       "symbol": "THB",
@@ -52045,7 +52045,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 100,
-      "proceeds": 66
+      "proceeds": 65
     },
     "TZ": {
       "symbol": "TZS",
@@ -52121,8 +52121,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 54.99,
-      "proceeds": 34.06
+      "price": 49.99,
+      "proceeds": 34.99
     },
     "MT": {
       "symbol": "EUR",
@@ -52473,8 +52473,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 45,
-      "proceeds": 25.2
+      "price": 55,
+      "proceeds": 30.8
     },
     "SG": {
       "symbol": "SGD",
@@ -52564,8 +52564,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 1390,
-      "proceeds": 973
+      "price": 1590,
+      "proceeds": 1113
     },
     "TH": {
       "symbol": "THB",
@@ -52607,7 +52607,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 130,
-      "proceeds": 86
+      "proceeds": 84
     },
     "TZ": {
       "symbol": "TZS",
@@ -52683,8 +52683,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 74.99,
-      "proceeds": 46.45
+      "price": 64.99,
+      "proceeds": 45.49
     },
     "MT": {
       "symbol": "EUR",
@@ -53035,8 +53035,8 @@
       "symbol": "SEK",
       "country": "Sweden",
       "countryCode": "SE",
-      "price": 55,
-      "proceeds": 30.8
+      "price": 65,
+      "proceeds": 36.4
     },
     "SG": {
       "symbol": "SGD",
@@ -53126,8 +53126,8 @@
       "symbol": "KZT",
       "country": "Kazakhstan",
       "countryCode": "KZ",
-      "price": 1690,
-      "proceeds": 1183
+      "price": 1990,
+      "proceeds": 1393
     },
     "TH": {
       "symbol": "THB",
@@ -53169,7 +53169,7 @@
       "country": "Taiwan",
       "countryCode": "TW",
       "price": 170,
-      "proceeds": 112
+      "proceeds": 110
     },
     "TZ": {
       "symbol": "TZS",
@@ -53245,8 +53245,8 @@
       "symbol": "EGP",
       "country": "Egypt",
       "countryCode": "EG",
-      "price": 94.99,
-      "proceeds": 58.84
+      "price": 79.99,
+      "proceeds": 55.99
     },
     "MT": {
       "symbol": "EUR",

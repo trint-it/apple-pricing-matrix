@@ -47,7 +47,7 @@ describe('Apple pricing matrix', () => {
   describe('getUSDRate', () => {
     it('returns the exchange rate to convert a given currency to USD', () => {
       expect(getUSDRate(TIER_FIVE, 'DE')).toBe(1.1002);
-      expect(getUSDRate(TIER_FIVE, 'JP')).toBe(120.2405);
+      expect(getUSDRate(TIER_FIVE, 'JP')).toBe(122.2445);
 
       // IS = ICELAND, Iceland uses USD in Apple's world
       expect(getUSDRate(TIER_FIVE, 'IS')).toBe(1);
