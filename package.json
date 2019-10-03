@@ -23,15 +23,15 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@types/jest": "24.0.0",
-    "i18n-iso-countries": "3.7.8",
-    "jest": "23.6.0",
-    "papaparse": "4.6.3",
-    "ts-jest": "23.10.5",
-    "tslint": "5.12.1",
-    "typescript": "3.3.1"
+    "@types/jest": "24.0.18",
+    "i18n-iso-countries": "4.3.1",
+    "jest": "24.9.0",
+    "papaparse": "5.1.0",
+    "ts-jest": "24.1.0",
+    "tslint": "5.20.0",
+    "typescript": "3.6.3"
   },
   "dependencies": {
-    "bignumber.js": "8.0.2"
+    "bignumber.js": "9.0.0"
   }
 }
